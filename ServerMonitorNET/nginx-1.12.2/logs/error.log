@@ -1,0 +1,5 @@
+2017/10/30 21:39:36 [emerg] 16344#1200: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/10/30 21:42:10 [emerg] 12528#18372: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/10/30 21:43:31 [emerg] 11744#10056: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/10/30 21:45:13 [emerg] 14996#19416: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/10/30 22:34:13 [emerg] 11780#15264: unknown directive "least_time" in E:\Adiel\trabajos\Server\ServerMonitorNET\nginx-1.12.2/conf/nginx.conf:19
