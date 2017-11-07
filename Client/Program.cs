@@ -22,7 +22,7 @@ namespace Client
                 for (int p = 0; p < 30; p++)
                 {
 
-                    Console.WriteLine(String.Format("Runing Server Octagon {0}", port));
+                    Console.WriteLine(String.Format("Runing Server {0}", port));
 
                     // Create a TcpClient.
                     // Note, for this client to work you need to have a TcpServer 
